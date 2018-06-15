@@ -1,0 +1,1 @@
+In this A.I. project, the n-queen problem is solved using genetic algorithm.
